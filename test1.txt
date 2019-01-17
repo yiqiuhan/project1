@@ -1,0 +1,24 @@
+ Volume in drive D is Personals
+ Volume Serial Number is 5E30-C71F
+
+ Directory of D:\ud120-projects-master\ud120-projects-master\tools
+
+01/17/2019  01:42 PM    <DIR>          .
+01/17/2019  01:42 PM    <DIR>          ..
+08/24/2017  10:09 AM            70,318 email_authors.pkl
+01/15/2019  06:20 PM             2,813 email_preprocess.py
+12/06/2018  07:42 PM       443,254,787 enron_mail_20150507.tar.gz
+08/24/2017  10:09 AM             4,390 feature_format.py
+01/15/2019  06:20 PM             1,064 nb_author_id.py
+08/24/2017  10:09 AM             1,277 parse_out_email_text.py
+08/24/2017  10:09 AM             3,494 python2_lesson06_keys.pkl
+08/24/2017  10:09 AM             3,560 python2_lesson13_keys.pkl
+08/24/2017  10:09 AM             3,560 python2_lesson14_keys.pkl
+12/06/2018  06:51 PM             1,199 startup.py
+12/06/2018  07:10 PM             1,215 startup3.py
+01/16/2019  02:34 PM                21 test.py
+01/17/2019  01:42 PM                 0 test1.txt
+08/24/2017  10:09 AM        15,949,792 word_data.pkl
+01/15/2019  06:18 PM    <DIR>          __pycache__
+              14 File(s)    459,297,490 bytes
+               3 Dir(s)  670,611,697,664 bytes free
